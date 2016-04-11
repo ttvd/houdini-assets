@@ -3,7 +3,7 @@
 Repository of my [Houdini](http://www.sidefx.com/index.php) Digital Assets.
 
 ## Assets
-* UVCheckerMap.hda - An asset to display UV checker map for easier UV debugging. Select one of 16 provided checker maps. Takes geometry as input. Uses [Arahnoid/UVChecker-map](https://github.com/Arahnoid/UVChecker-map) textures, (C) Igor Grinchesku, Public Domain.
+* UVCheckerMap.hda - An asset to display UV checker map for easier UV debugging. Select one of 16 provided checker maps. Takes geometry as input. Uses [Arahnoid/UVChecker-map](https://github.com/Arahnoid/UVChecker-map) textures, (c) Igor Grinchesku, Public Domain.
 
 ## Usage
 
